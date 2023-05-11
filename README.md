@@ -8,7 +8,7 @@
 
 <hr>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src='https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e479wv652dtm1a1zfvmi4n2qlkykub5353ykmryfs8y&rid=giphy.gif&ct=g'    width="500"height="350"/>
  
 
 </br>
