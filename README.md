@@ -8,7 +8,9 @@
 
 <hr>
 
-<img src='https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e479wv652dtm1a1zfvmi4n2qlkykub5353ykmryfs8y&rid=giphy.gif&ct=g'    width="500"height="350"/>
+<div align='center'>
+ <img src='https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e479wv652dtm1a1zfvmi4n2qlkykub5353ykmryfs8y&rid=giphy.gif&ct=g'    width="500"height="350"/>
+</div>
  
 
 </br>
