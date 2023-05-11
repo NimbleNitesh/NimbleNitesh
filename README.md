@@ -8,7 +8,7 @@
 
 <hr>
 
-<img src="https://user-images.githubusercontent.com/89788120/171056531-5afa6fb0-3b60-4bfd-9250-f7724c608aac.gif" width="77%" />
+<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
  
 
 </br>
