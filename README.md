@@ -1,5 +1,10 @@
 # Hey there👋, Welcome to my Github Profile
- <p>- <i>A undergraduate student and a software developer with good problem-solving skills. Passionate about programming and technology. Equipped with a diverse and promising skill-set.</i></p>
+ <p>- <i>An accomplished undergraduate student and software developer adept at problem-solving, demonstrating a fervent passion for programming and technology, and equipped with a versatile and promising skill-set.
+
+
+
+
+</i></p>
 
 <hr>
 
