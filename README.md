@@ -68,7 +68,7 @@
 
 ![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimbleNitesh&show_icons=true&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimbleNitesh&layout=compact)](https://github.com/NimbleNitesh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimbleNitesh)](https://github.com/anuraghazra/github-readme-stats)
   </td>
  </tr>
 
