@@ -66,9 +66,11 @@
   
 ## 📄📜 Stats
 
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimbleNitesh&show_icons=true&theme=codeSTACKr)
+![](https://github-readme-stats.vercel.app/api?username=NimbleNitesh&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&rank_icon=percentile)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NimbleNitesh&theme=radical&hide_border=false) <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimbleNitesh)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NimbleNitesh&langs_count=19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie&hide=html,css,jupyter%20notebook,batchfile)
+
   </td>
  </tr>
 
